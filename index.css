@@ -1,0 +1,27 @@
+.logo{
+    height: 70px;
+}
+.nav-link:hover{
+    font-size: 19px;
+}
+.paragraf{
+    font-weight: bold;
+}
+.body{
+    background-image: url("img/header.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ayak{
+    height: 150px;
+    background-color: rgb(12, 12, 12);
+}
+.cerceve{
+    border: 1px solid red;
+    transition: ease 0.5s;
+}
+.cerceve:hover {
+    transform: translateY(-10px) ;
+    
+}
